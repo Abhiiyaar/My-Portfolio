@@ -36,7 +36,7 @@ export const PROJECTS = [
     id: 2,
     title: "Unsplash-Images",
     description:
-      "Created a unsplash-images website using Unsplash API and React Query to fetch the data built with React.",
+      "Created a Unsplash-Images website using Unsplash API built with React.",
     imgSrc: project2,
     link: "https://unsplash-images-temp.netlify.app/",
   },
